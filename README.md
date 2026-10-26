@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./banner.png" alt="Cybersecurity profile banner" width="100%">
+</p>
 <h1 align="center">Hi, I'm Okusanya Samuel 👋</h1>
 
 <h3 align="center">Cybersecurity | Ethical Hacking | Hands-on Learning</h3>
